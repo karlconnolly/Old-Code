@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+  <center><img src="http://thenewswheel.com/wp-content/uploads/2015/10/Tesla-T-logo.jpg" width="220"></center>
+<style>
+  
+  }
+  body >  {
+    margin: auto;
+    width: 500px;
+    overflow: auto;
+  }
+  body > script {
+    display: none
+  }
+  
+   body {
+   background-color: white;
+
+</style>
+</html>
+  
+<center><i><b>"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."</b></i></center>
+<center><p>-Elon Musk (CEO of SpaceX and Tesla).</p></center>
+<center><img src="http://lamcdn.net/hopesandfears.com/post_image-image/-uaoUnk5I-L0pGxPN7ZJPA-wide.png" width="180"></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">The Tesla Model 3 is the next big car that Tesla are working on</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">Its main feature will be the Infotainment system which will be devolped by Intel.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;"><b>TESLA'S INFOTAINMENT</b></p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">Tesla was founded in 2003 by a group of engineers who wanted to prove that people didn’t need to compromise to drive electric.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">That electric vehicles can be better, quicker and more fun to drive than gasoline cars today.</p></center> 
+<center><p style="color:rgb(yellow) "font-size:180%;">Tesla builds not only all-electric vehicles but also infinitely scalable clean energy generation and storage products.</p></center> 
+<center><p style="color:rgb(yellow) "font-size:180%;">Tesla believes the faster the world stops relying on fossil fuels and moves towards a zero-emission future, the better.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">
+<center><p style="color:rgb(yellow) "font-size:180%;"><b>ELON MUSK</b></p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">Elon Reeve Musk was born on June 28th 1971 in South Africa.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">Musk is the founder, CEO, and CTO of Space-X, and a co-founder, CEO and Product Architect at Tesla,</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">overseeing all product development, engineering, and design of the company's electric vehicles, battery products, and solar roofs.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">Since the company’s inception in 2003, Tesla’s mission has been to accelerate the transition to a sustainable energy future., and is the 80th richest person in the world.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;"><b>TESLA MODEL 3</b></p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">The Tesla Model 3 is one of the most anticipated vehicles of all time.</p></center> 
+<center><p style="color:rgb(yellow) "font-size:180%;">The Californian company received nearly 400,000 pre-orders worth upward of $10 billion simply by showing off a close-to-production prototype.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">No other automaker has ever pulled off such a feat.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">One investor even predicts the Model 3  will bring BMW 3 Series sales to zero — at least until Munich’s finest adopts some form of electrification.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">The tesla is one of the safest cars ever to be invented.</p></center>
+<center><p style="color:rgb(yellow) "font-size:180%;">It scored a five point four star our of fiverating in it’s safety test.</p></center>
+
+
+ <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;margin:0}
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 1s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+.prev {
+  left: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text {
+  color: #f2f2f2;
+  font-size: 30px;
+  padding: 16px 24px;
+  position: absolute;
+  bottom: 16px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 2s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 3s;
+  animation-name: fade;
+  animation-duration: 3s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8953763/vrg_model_3_dashboard_head_on_view.jpg" style="width:100%">
+  <div class="text">The Model 3's interior, showing of the Infotainment system</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="https://www.laptopmag.com/images/wp/purch-api/incontent/2013/02/Intel-infotainment-hands-on-6.jpg" style="width:100%">
+  <div class="text">An early prototype of the Infotainment system back in 2013</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="https://i.makeagif.com/media/10-15-2015/_DUs_u.gif" style="width:100%">
+  <div class="text">Tesla is proud to work with Intel on their Infotainment system.</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+</body>
+</html> 
